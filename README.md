@@ -1,1 +1,1 @@
-https:/tqppok.github.io/rsschool-cv/cv
+[rsschool-cv](https://tqppok.github.io/rsschool-cv/cv)
