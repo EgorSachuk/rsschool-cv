@@ -1,0 +1,14 @@
+       h1 {
+            color: #ff69b4;
+            text-shadow: 2px 2px 4px #ccc;
+            text-align: center;
+            font-size: 3em;
+        }
+        
+        p {
+            color: #4169e1;
+            border-bottom: 2px dashed #4169e1;
+            padding-bottom: 5px;
+        }
+        
+      
